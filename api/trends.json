@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T11:00:07.454107+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-10-12T11:38:58.701556+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             2,
             3,
             9,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时38分]"
         },
         {
           "title": "特朗普政府执政9个月来，超20万名美国政府雇员离职",
@@ -40,8 +41,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时38分]"
+        },
+        {
+          "title": "特朗普又要干一件大事",
+          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 11时38分]"
         },
         {
           "title": "如何看特朗普最新关税恐吓",
@@ -56,22 +68,12 @@
             26,
             20,
             29,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时00分]"
-        },
-        {
-          "title": "特朗普又要干一件大事",
-          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 11时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时38分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 讨论增强乌防空系统可能性等问题",
@@ -286,11 +288,12 @@
             16,
             25,
             7,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时38分]"
         },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -299,22 +302,48 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时38分]"
         },
         {
           "title": "美股全线暴跌对A股冲击会有多大",
           "url": "https://www.toutiao.com/trending/7560106683574259251/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时38分]"
+        },
+        {
+          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
+          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时38分]"
+        },
+        {
+          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
+          "url": "https://www.cls.cn/detail/2166644",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 11时38分]"
         },
         {
           "title": "美股跳水",
@@ -328,28 +357,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时16分]"
-        },
-        {
-          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
-          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
         }
       ]
     },
@@ -423,11 +430,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 11时00分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 11时38分]"
         }
       ]
     }
