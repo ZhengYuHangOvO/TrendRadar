@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T01:12:44.029099+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-10-13T02:20:52.696581+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
+          "url": "https://wallstreetcn.com/livenews/2986328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时20分]"
+        },
+        {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
           "url": "https://wallstreetcn.com/livenews/2986324",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时12分]"
-        },
-        {
-          "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
-          "url": "https://wallstreetcn.com/livenews/2986328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
@@ -36,11 +38,26 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
+        },
+        {
+          "title": "特朗普一条帖子引发币圈史最大惨案",
+          "url": "https://www.toutiao.com/trending/7560309088249187890/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            27,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
@@ -50,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "特朗普正满世界为美国寻找重稀土矿",
@@ -60,11 +77,12 @@
           "ranks": [
             23,
             12,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
           "title": "孙女：你有啥梦想？特朗普：我想当“伟大的总统”",
@@ -74,21 +92,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         },
         {
-          "title": "特朗普一条帖子引发币圈史最大惨案",
-          "url": "https://www.toutiao.com/trending/7560309088249187890/",
-          "source": "今日头条",
+          "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
+          "url": "https://flash.jin10.com/detail/20251012213722708800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            27,
-            15
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "美国网友热议特朗普行为",
@@ -103,17 +119,6 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
-          "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
-          "url": "https://flash.jin10.com/detail/20251012213722708800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时12分]"
-        },
-        {
           "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
           "url": "https://flash.jin10.com/detail/20251012201701028800",
           "source": "金十数据",
@@ -121,8 +126,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "美国副总统万斯：（当被问及美国总统特朗普是否考虑援引《叛乱法》时）总统正特朗普在考虑所有选项。",
@@ -132,8 +137,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },
@@ -150,8 +155,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时20分]"
         }
       ]
     }
