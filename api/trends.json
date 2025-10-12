@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T11:38:58.701556+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-10-12T12:19:41.751324+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
@@ -27,22 +27,12 @@
             3,
             9,
             26,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普政府执政9个月来，超20万名美国政府雇员离职",
-          "url": "https://news.ifeng.com/c/8nMmbo0COyZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 12时19分]"
         },
         {
           "title": "特朗普又要干一件大事",
@@ -52,8 +42,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普政府执政9个月来，超20万名美国政府雇员离职",
+          "url": "https://news.ifeng.com/c/8nMmbo0COyZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 12时19分]"
         },
         {
           "title": "如何看特朗普最新关税恐吓",
@@ -258,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "“青蛙、恐龙”上街 抗议特朗普政府",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%9D%92%E8%9B%99%E3%80%81%E6%81%90%E9%BE%99%E2%80%9D%E4%B8%8A%E8%A1%97+%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
@@ -289,11 +301,12 @@
             25,
             7,
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 11时38分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 12时19分]"
         },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -306,8 +319,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 12时19分]"
         },
         {
           "title": "美股全线暴跌对A股冲击会有多大",
@@ -318,8 +331,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时19分]"
         },
         {
           "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
@@ -330,8 +343,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时19分]"
         },
         {
           "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
@@ -342,8 +355,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时19分]"
         },
         {
           "title": "美股跳水",
@@ -431,11 +444,12 @@
           "ranks": [
             22,
             20,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时19分]"
         }
       ]
     }
