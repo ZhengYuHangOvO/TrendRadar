@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-10-12T09:12:02.851779+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-10-12T11:00:07.454107+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "中美稀土博弈特朗普为何破防",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%A8%80%E5%9C%9F%E5%8D%9A%E5%BC%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E7%A0%B4%E9%98%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 09时12分]"
-        },
         {
           "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
           "url": "https://news.ifeng.com/c/8nMVSUorsOg",
@@ -32,6 +19,20 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
+          "title": "中美稀土博弈特朗普为何破防",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E7%A8%80%E5%9C%9F%E5%8D%9A%E5%BC%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E7%A0%B4%E9%98%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时00分]"
+        },
+        {
           "title": "特朗普政府执政9个月来，超20万名美国政府雇员离职",
           "url": "https://news.ifeng.com/c/8nMmbo0COyZ",
           "source": "凤凰网",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时00分]"
         },
         {
           "title": "如何看特朗普最新关税恐吓",
@@ -54,11 +55,23 @@
             21,
             26,
             20,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 09时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时00分]"
+        },
+        {
+          "title": "特朗普又要干一件大事",
+          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 11时00分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 讨论增强乌防空系统可能性等问题",
@@ -151,15 +164,15 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "特朗普又要干一件大事",
-          "url": "https://news.ifeng.com/c/8nNox3W5mmu",
-          "source": "凤凰网",
+          "title": "商务部回应特朗普威胁加关税100%",
+          "url": "https://www.toutiao.com/trending/7560150398208790066/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "特朗普关税威胁冲击市场信心",
@@ -229,7 +242,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -248,7 +261,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
@@ -262,18 +275,6 @@
           "time_info": "[00时18分 ~ 07时15分]"
         },
         {
-          "title": "美股大暴跌,白宫趁机满仓做空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 09时12分]"
-        },
-        {
           "title": "美股大跌背后原因是什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -284,11 +285,36 @@
             8,
             16,
             25,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 11时00分]"
+        },
+        {
+          "title": "美股大暴跌,白宫趁机满仓做空",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时00分]"
+        },
+        {
+          "title": "美股全线暴跌对A股冲击会有多大",
+          "url": "https://www.toutiao.com/trending/7560106683574259251/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "美股跳水",
@@ -302,6 +328,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时16分]"
+        },
+        {
+          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
+          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
+          "url": "https://www.cls.cn/detail/2166644",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         }
       ]
     },
@@ -326,11 +374,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%259B%259E%25E8%25B0%2583%25E4%25B8%2580%25E5%25BA%25A6%25E8%25B7%258C%25E7%25A0%25B44000%25E7%25BE%258E%25E5%2585%2583%2523%26band_rank%3D21%26dgr%3D0%26realpos%3D21%26pos%3D20%26flag%3D1%26c_type%3D31%26filter_type%3Drealtimehot%26cate%3D5001%26display_time%3D1760230606%26pre_seqid%3D17602306063900374288188",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 11时00分]"
         }
       ]
     },
@@ -355,11 +404,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时11分 ~ 09时12分]"
+          "appearance_count": 9,
+          "time_info": "[03时11分 ~ 11时00分]"
         }
       ]
     },
@@ -372,11 +422,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E5%8F%AF%E8%83%BD%E5%AD%A6%E4%BC%9A%E6%9D%80%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 11时00分]"
         }
       ]
     }
