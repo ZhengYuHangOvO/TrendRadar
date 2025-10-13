@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-13T22:18:32.099685+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2025-10-13T23:18:23.208509+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 107,
       "titles": [
+        {
+          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
+          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 23时18分]"
+        },
         {
           "title": "关于中国，特朗普和万斯嘴软了",
           "url": "https://news.ifeng.com/c/8nPX08vMcSK",
@@ -29,23 +41,12 @@
             4,
             9,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时20分 ~ 22时18分]"
-        },
-        {
-          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
-          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[12时20分 ~ 23时18分]"
         },
         {
           "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
@@ -230,6 +231,17 @@
           "time_info": "[09时12分 ~ 11时14分]"
         },
         {
+          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
+          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普称可能供乌战斧",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
           "source": "bilibili 热搜",
@@ -318,15 +330,37 @@
           "time_info": "19时15分"
         },
         {
-          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
-          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：希望埃及总统塞西加入加沙委员会。",
+          "url": "https://flash.jin10.com/detail/20251013230649629800",
+          "source": "金十数据",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "特朗普称若伊朗肯谈判他乐意取消制裁",
+          "url": "https://wallstreetcn.com/livenews/2986894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "埃及总统塞西：确信美国总统特朗普是唯一能够结束加沙战争的人。",
+          "url": "https://flash.jin10.com/detail/20251013230633425800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普两次强调加沙战争已经结束，疑似反驳以色列总理",
@@ -349,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "美国中东特使威维特科夫：应特朗普总统指示，我们将在此（埃及）停留相当长一段时间。",
+          "url": "https://flash.jin10.com/detail/20251013230436111800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普连说三遍战争结束了",
@@ -374,6 +419,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时13分 ~ 13时18分]"
+        },
+        {
+          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时18分]"
         },
         {
           "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
@@ -434,6 +491,29 @@
           "time_info": "[12时21分 ~ 13时18分]"
         },
         {
+          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
+          "url": "https://www.zhihu.com/question/1961110110400116359",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普以色列议会演讲遭抗议者打断",
+          "url": "https://news.ifeng.com/c/8nQTTCdGw6p",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普犹太裔女婿现身加沙",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
           "source": "百度热搜",
@@ -456,18 +536,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时21分 ~ 19时15分]"
-        },
-        {
-          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时18分]"
         },
         {
           "title": "专家：特朗普对华打法该变了",
@@ -670,6 +738,17 @@
           "time_info": "[17时21分 ~ 18时20分]"
         },
         {
+          "title": "希拉里罕见赞扬特朗普",
+          "url": "https://www.toutiao.com/trending/7560298822572982314/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
+        },
+        {
           "title": "130万美军欠薪特朗普阅兵狂欢",
           "url": "https://search.bilibili.com/all?keyword=130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2",
           "source": "bilibili 热搜",
@@ -692,15 +771,15 @@
           "time_info": "[12时20分 ~ 12时21分]"
         },
         {
-          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
-          "url": "https://www.zhihu.com/question/1961110110400116359",
-          "source": "知乎",
+          "title": "特朗普以色列议会演讲遭抗议者打断",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E4%BC%9A%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD",
+          "source": "百度热搜",
           "ranks": [
-            7
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
@@ -736,15 +815,15 @@
           "time_info": "21时30分"
         },
         {
-          "title": "特朗普以色列议会演讲遭抗议者打断",
-          "url": "https://news.ifeng.com/c/8nQTTCdGw6p",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（谈加沙协议第二阶段）已经开始，加沙计划的各个阶段相互交织，加沙需要大量清理工作。",
+          "url": "https://flash.jin10.com/detail/20251013230059184800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
@@ -767,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗愿意谈判，我非常愿意解除对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20251013225921240800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：若能访问加沙将会很荣幸，我会去那里，我想去。",
@@ -800,6 +890,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗需要帮助，伊朗会加入我们。",
+          "url": "https://flash.jin10.com/detail/20251013225909915800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "德国总理默茨：我将与美国总统特朗普讨论我们的共同努力，以帮助结束乌克兰的战争。今天证明，当国际社会团结一致时，和平是可以实现的。",
+          "url": "https://flash.jin10.com/detail/20251013225713529800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：不担心以色列在人质获释后重启战争。",
@@ -844,6 +956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "白宫高级官员：美国总统特朗普将于周五与乌克兰总统泽连斯基共进工作午餐。",
+          "url": "https://flash.jin10.com/detail/20251013225353522800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：（最新的）诺贝尔奖是颁给2024年的。",
@@ -956,6 +1079,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "特朗普抵达加沙和平峰会地点。",
+          "url": "https://flash.jin10.com/detail/20251013224715962800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特朗普：人质可能更早获释。",
           "url": "https://flash.jin10.com/detail/20251013050922637800",
           "source": "金十数据",
@@ -1006,7 +1140,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1039,7 +1173,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1165,6 +1299,30 @@
           "time_info": "[17时21分 ~ 20时36分]"
         },
         {
+          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2168011",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时29分 ~ 23时18分]"
+        },
+        {
+          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -1210,15 +1368,16 @@
           "time_info": "[16时22分 ~ 16时23分]"
         },
         {
-          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时36分 ~ 23时18分]"
         },
         {
           "title": "博通美股盘前直线拉涨，涨超12%。",
@@ -1230,18 +1389,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
-        },
-        {
-          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2168011",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时18分]"
         },
         {
           "title": "博通(AVGO.O)美股盘前直线拉涨，涨超10%。",
@@ -1291,18 +1438,6 @@
           "time_info": "[21时30分 ~ 22时18分]"
         },
         {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时18分]"
-        },
-        {
           "title": "美股期指集体反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -1315,6 +1450,18 @@
           "time_info": "[09时12分 ~ 11时14分]"
         },
         {
+          "title": "美股三大指数高开 稀土概念股大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2986638",
           "source": "华尔街见闻-快讯",
@@ -1325,6 +1472,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 17时21分]"
+        },
+        {
+          "title": "美股核电股大涨，Energy Fuels涨超14%，Oklo涨超11%。",
+          "url": "https://wallstreetcn.com/livenews/2986873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
@@ -1382,35 +1541,13 @@
           "time_info": "21时30分"
         },
         {
-          "title": "美股核电股大涨，Energy Fuels涨超14%，Oklo涨超11%。",
-          "url": "https://wallstreetcn.com/livenews/2986873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "美股三大指数高开 稀土概念股大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20251013214134823800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1443,7 +1580,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1498,6 +1635,18 @@
           "time_info": "21时30分"
         },
         {
+          "title": "美股三大股指集体高开，纳指盘初涨1.71%，标普500指数涨1.16%，道指涨0.82%。科技股集体反弹，费城半导体指数涨超4%，台积电涨超5%，英伟达涨超2%，苹果涨超1%；博通涨超8%，消息称OpenAI与博通计划于2026年推出定制数据中心芯片；美国稀土概念股走高，USA Rare Earth涨超17%；热门中概股普涨，纳斯达克中国金龙指数涨2.7%，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2986864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "OpenAI 宣布与博通达成多年芯片合作。",
           "url": "https://flash.jin10.com/detail/20251013210034503800",
           "source": "金十数据",
@@ -1509,24 +1658,13 @@
           "time_info": "21时30分"
         },
         {
-          "title": "美股三大股指集体高开，纳指盘初涨1.71%，标普500指数涨1.16%，道指涨0.82%。科技股集体反弹，费城半导体指数涨超4%，台积电涨超5%，英伟达涨超2%，苹果涨超1%；博通涨超8%，消息称OpenAI与博通计划于2026年推出定制数据中心芯片；美国稀土概念股走高，USA Rare Earth涨超17%；热门中概股普涨，纳斯达克中国金龙指数涨2.7%，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2986864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "博通美股盘前直线拉涨，涨超12%。报道称，OpenAI与博通计划于2026年推出定制数据中心芯片。",
           "url": "https://wallstreetcn.com/livenews/2986848",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -1534,8 +1672,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
+          "url": "https://wallstreetcn.com/livenews/2986893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
         {
           "title": "金价还能涨多高",
           "url": "https://www.toutiao.com/trending/7560579461146480170/",
@@ -1584,7 +1733,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1595,7 +1744,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -1649,6 +1798,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨超0.50%，现报99.33。",
+          "url": "https://flash.jin10.com/detail/20251013222920997800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
