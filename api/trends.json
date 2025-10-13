@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-13T13:18:37.079330+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-10-13T14:26:14.204858+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "关于中国，特朗普和万斯嘴软了",
+          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时26分]"
+        },
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
           "url": "https://www.toutiao.com/trending/7560309088249187890/",
@@ -38,17 +50,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 09时12分]"
-        },
-        {
-          "title": "关于中国，特朗普和万斯嘴软了",
-          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 13时18分]"
         },
         {
           "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
@@ -120,6 +121,17 @@
           "time_info": "[09时12分 ~ 12时21分]"
         },
         {
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时20分 ~ 14时26分]"
+        },
+        {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
           "url": "https://wallstreetcn.com/livenews/2986324",
           "source": "华尔街见闻-快讯",
@@ -160,15 +172,30 @@
           "time_info": "[09时12分 ~ 11时14分]"
         },
         {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
+          "url": "https://www.cls.cn/detail/2166955",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时26分]"
+        },
+        {
+          "title": "特朗普强调了三遍：战争结束了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 14时26分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -194,6 +221,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "哈马斯：释放20名以色列被扣押人员是特朗普停止加沙战争计划第一阶段的一部分。",
+          "url": "https://flash.jin10.com/detail/20251013135645399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "130万美军欠薪特朗普阅兵狂欢",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D0%26realpos%3D9%26pos%3D10%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26dgr%3D0%26display_time%3D1760325214%26pre_seqid%3D176032521466803760121126",
           "source": "微博",
@@ -201,31 +239,6 @@
             9,
             7,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
-          "url": "https://www.cls.cn/detail/2166955",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普强调了三遍：战争结束了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -290,6 +303,17 @@
           "time_info": "[09时12分 ~ 11时14分]"
         },
         {
+          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
+          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
+        },
+        {
           "title": "特朗普：乌克兰需要“爱国者”导弹，并希望拥有战斧导弹，我们谈过这个。",
           "url": "https://flash.jin10.com/detail/20251013052757698800",
           "source": "金十数据",
@@ -347,6 +371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 11时14分]"
+        },
+        {
+          "title": "威胁对华加税后特朗普和万斯嘴软了",
+          "url": "https://www.toutiao.com/trending/7560543106609712678/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "130万美军欠薪特朗普阅兵狂欢",
@@ -616,7 +651,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -627,11 +662,12 @@
             23,
             25,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 13时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时26分]"
         },
         {
           "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
@@ -644,6 +680,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时13分 ~ 13时18分]"
+        },
+        {
+          "title": "TACO交易？美股期货反弹，数字货币大涨，黄金续创新高，亚洲股市普跌",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -770,6 +817,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[03时12分 ~ 13时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "有哪些轻量级适合阅读的优秀 C++ 开源项目？",
+          "url": "https://www.zhihu.com/question/40131963",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         }
       ]
     }
