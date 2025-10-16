@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:24:19.670468+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2025-10-16T17:18:36.145407+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -123,6 +123,20 @@
           "time_info": "[00时19分 ~ 02时25分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
@@ -135,19 +149,6 @@
           "time_info": "[07时15分 ~ 09时10分]"
         },
         {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时24分]"
-        },
-        {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
           "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
           "source": "凤凰网",
@@ -155,8 +156,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时18分]"
         },
         {
           "title": "特朗普称泽连斯基将阐述进攻俄理由",
@@ -190,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -606,6 +618,28 @@
           "time_info": "04时20分"
         },
         {
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
           "url": "https://flash.jin10.com/detail/20251016034449123800",
           "source": "金十数据",
@@ -700,7 +734,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -958,7 +992,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -980,7 +1014,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -1051,8 +1085,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 17时18分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -1074,11 +1108,12 @@
           "ranks": [
             11,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时18分]"
         },
         {
           "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
@@ -1091,8 +1126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时18分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1229,8 +1264,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 17时18分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1380,7 +1415,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
