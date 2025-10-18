@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:15:08.283869+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-10-18T14:21:28.194070+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时21分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -40,6 +40,25 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 04时20分]"
+        },
+        {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20,
+            6,
+            14,
+            23,
+            22,
+            16,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 14时21分]"
         },
         {
           "title": "特朗普又被告",
@@ -54,24 +73,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20,
-            6,
-            14,
-            23,
-            22,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 13时15分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -99,6 +100,19 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "泽连斯基穿上正装 特朗普：我很喜欢",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时21分]"
+        },
+        {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
           "url": "https://www.zhihu.com/question/1962439324869047516",
           "source": "知乎",
@@ -114,19 +128,6 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
-          "title": "泽连斯基穿上正装 特朗普：我很喜欢",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时15分]"
-        },
-        {
           "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
           "url": "https://news.ifeng.com/c/8nXKVRZM8ip",
           "source": "凤凰网",
@@ -137,6 +138,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时14分 ~ 09时07分]"
+        },
+        {
+          "title": "可怜的泽连斯基，又被特朗普戏弄了",
+          "url": "https://news.ifeng.com/c/8nXp14yHSEN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
+          "url": "https://www.cls.cn/detail/2173372",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时21分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -153,15 +178,28 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
-          "title": "可怜的泽连斯基，又被特朗普戏弄了",
-          "url": "https://news.ifeng.com/c/8nXp14yHSEN",
+          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普：美或不提供“战斧”、排除美俄乌三方会晤",
+          "url": "https://news.ifeng.com/c/8nXoNWTk2lG",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时15分]"
+          "time_info": "[11时26分 ~ 14时21分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -170,24 +208,12 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时15分]"
-        },
-        {
-          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
-          "url": "https://www.cls.cn/detail/2173372",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 14时21分]"
         },
         {
           "title": "特朗普为何在对华关税问题上态度变软",
@@ -195,11 +221,23 @@
           "source": "今日头条",
           "ranks": [
             12,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时21分]"
+        },
+        {
+          "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
+          "url": "https://news.ifeng.com/c/8nXtfp1w62H",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时21分]"
         },
         {
           "title": "美国总统特朗普：希望我们能不用“战斧”导弹就结束战争。",
@@ -213,18 +251,6 @@
           "time_info": "02时20分"
         },
         {
-          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时15分]"
-        },
-        {
           "title": "美国总统特朗普：这不仅仅是钱的问题，我们需要“战斧”导弹和许多其他武器，我们正在向乌克兰运送这些武器。",
           "url": "https://flash.jin10.com/detail/20251018015006993800",
           "source": "金十数据",
@@ -234,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "特朗普：美或不提供“战斧”、排除美俄乌三方会晤",
-          "url": "https://news.ifeng.com/c/8nXoNWTk2lG",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：印度将不再购买俄罗斯石油。",
@@ -258,15 +273,18 @@
           "time_info": "02时20分"
         },
         {
-          "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
-          "url": "https://news.ifeng.com/c/8nXtfp1w62H",
-          "source": "凤凰网",
+          "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
+          "url": "https://wallstreetcn.com/livenews/2989995",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1,
+            8,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时15分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 14时21分]"
         },
         {
           "title": "美国总统特朗普：将谈论向乌克兰输送“战斧”导弹。",
@@ -318,19 +336,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 03时14分]"
-        },
-        {
-          "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
-          "url": "https://wallstreetcn.com/livenews/2989995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -870,6 +875,19 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时15分 ~ 14时21分]"
+        },
+        {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
@@ -882,19 +900,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 06时15分]"
-        },
-        {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时15分 ~ 13时15分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -920,8 +925,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时21分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -1065,11 +1070,12 @@
           "source": "微博",
           "ranks": [
             4,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时21分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
@@ -1179,8 +1185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 14时21分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
