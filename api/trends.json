@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T21:22:54.719079+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-10-18T22:15:06.513561+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时07分 ~ 21时22分]"
+          "appearance_count": 20,
+          "time_info": "[09时07分 ~ 22时15分]"
         },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -39,8 +39,33 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时15分]"
+        },
+        {
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时22分]"
+          "time_info": "[18时16分 ~ 22时15分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时15分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
@@ -54,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时53分 ~ 21时22分]"
+          "appearance_count": 19,
+          "time_info": "[10时53分 ~ 22时15分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -150,21 +175,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时53分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时22分]"
+          "appearance_count": 19,
+          "time_info": "[10时53分 ~ 22时15分]"
         },
         {
           "title": "泽连斯基穿上正装 特朗普：我很喜欢",
@@ -180,16 +192,26 @@
           "time_info": "[09时07分 ~ 14时21分]"
         },
         {
-          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
-          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "title": "美乌总统会晤，特朗普数次语气强硬",
+          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
           "source": "凤凰网",
           "ranks": [
-            5,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 22时15分]"
+        },
+        {
+          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 22时15分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -297,28 +319,6 @@
           "time_info": "[15时14分 ~ 19时12分]"
         },
         {
-          "title": "美乌总统会晤，特朗普数次语气强硬",
-          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时22分]"
-        },
-        {
           "title": "特朗普为何在对华关税问题上态度变软",
           "url": "https://www.toutiao.com/trending/7562386513762192937/",
           "source": "今日头条",
@@ -345,6 +345,22 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://wallstreetcn.com/livenews/2990050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            13,
+            19,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 22时15分]"
         },
         {
           "title": "特朗普：美或不提供“战斧”、排除美俄乌三方会晤",
@@ -384,21 +400,6 @@
           "time_info": "[11时26分 ~ 15时14分]"
         },
         {
-          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://wallstreetcn.com/livenews/2990050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            13,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 21时22分]"
-        },
-        {
           "title": "美国总统特朗普：这不仅仅是钱的问题，我们需要“战斧”导弹和许多其他武器，我们正在向乌克兰运送这些武器。",
           "url": "https://flash.jin10.com/detail/20251018015006993800",
           "source": "金十数据",
@@ -410,6 +411,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 22时15分]"
+        },
+        {
           "title": "美国总统特朗普：印度将不再购买俄罗斯石油。",
           "url": "https://flash.jin10.com/detail/20251018014747316800",
           "source": "金十数据",
@@ -419,6 +431,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
+          "url": "https://flash.jin10.com/detail/20251018175601637800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普：将谈论向乌克兰输送“战斧”导弹。",
@@ -473,6 +499,19 @@
           "time_info": "[09时07分 ~ 12时20分]"
         },
         {
+          "title": "韩4大集团CEO同赴特朗普“鸿门宴”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A94%E5%A4%A7%E9%9B%86%E5%9B%A2CEO%E5%90%8C%E8%B5%B4%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E9%B8%BF%E9%97%A8%E5%AE%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普重新起诉《纽约时报》",
           "url": "https://www.toutiao.com/trending/7561736617245904425/",
           "source": "今日头条",
@@ -484,19 +523,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 03时14分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
-          "url": "https://flash.jin10.com/detail/20251018175601637800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时22分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -609,17 +635,6 @@
           "time_info": "[10时53分 ~ 12时20分]"
         },
         {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时22分]"
-        },
-        {
           "title": "美国总统特朗普：我告诉乌克兰总统泽连斯基，是时候（与俄罗斯）达成一份协议了。",
           "url": "https://wallstreetcn.com/livenews/2989907",
           "source": "华尔街见闻-快讯",
@@ -657,18 +672,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 12时20分]"
-        },
-        {
-          "title": "韩4大集团CEO同赴特朗普“鸿门宴”",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A94%E5%A4%A7%E9%9B%86%E5%9B%A2CEO%E5%90%8C%E8%B5%B4%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E9%B8%BF%E9%97%A8%E5%AE%B4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时22分]"
         },
         {
           "title": "特朗普承认对华关税不可持续",
@@ -1091,8 +1094,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时15分 ~ 21时22分]"
+          "appearance_count": 22,
+          "time_info": "[07时15分 ~ 22时15分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -1136,17 +1139,6 @@
           "time_info": "[09时07分 ~ 14时21分]"
         },
         {
-          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2989895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
@@ -1155,8 +1147,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 22时15分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -1166,8 +1158,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 22时15分]"
+        },
+        {
+          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2989895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
@@ -1287,11 +1290,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时16分 ~ 21时22分]"
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时15分]"
         },
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
@@ -1321,6 +1325,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[10时53分 ~ 18时16分]"
+        },
+        {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 22时15分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
@@ -1372,16 +1388,15 @@
           "time_info": "[00时19分 ~ 01时16分]"
         },
         {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时22分]"
+          "time_info": "[21时22分 ~ 22时15分]"
         },
         {
           "title": "产量释放与金价红利共振，紫金矿业Q3归母净利润飙升57.14%｜财报见闻",
@@ -1428,17 +1443,6 @@
           "time_info": "[20时37分 ~ 20时38分]"
         },
         {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "黄金价格“抛物线式”上涨",
           "url": "https://www.toutiao.com/trending/7562476629914553883/",
           "source": "今日头条",
@@ -1463,8 +1467,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时07分 ~ 21时22分]"
+          "appearance_count": 20,
+          "time_info": "[09时07分 ~ 22时15分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1508,6 +1512,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D1%26c_type%3D31%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26display_time%3D1760793006%26pre_seqid%3D176079300598502732473105",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 22时15分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
           "url": "https://wallstreetcn.com/livenews/2989928",
           "source": "华尔街见闻-快讯",
@@ -1518,17 +1533,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 09时07分]"
-        },
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D1%26c_type%3D31%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26display_time%3D1760793006%26pre_seqid%3D176079300598502732473105",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
